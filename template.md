@@ -1,7 +1,7 @@
 # Project Title: Dungeon Crawler
 
 ### Statement
-Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn? 
+Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn?  
 The basic idea is to use AVL tree/regular tree to create a dungeon crawler in which we use the image libraries to display monsters to the player,and based on the level of the tree the user is on the difficulty of the monster the player will be able to obtain more epxerience to level up and go to higher difficulties.The reason this is interesting personally is because dungeon crawlers are simple but can be difficult and entertaining at the same time.We hope to learn how to use what we have previosly learned and apply it in different ways such as using lambda to create a way to calculate accuracy, create a random number generator for player stat gain such as health,mana.
 
 ### Analysis
